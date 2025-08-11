@@ -70,6 +70,6 @@ const Connections = () => {
       })}
     </div>
   );
-};
+}; 
 
 export default Connections;
